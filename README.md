@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maryann-dev67
 - 👀 I’m interested in mobile app development and aspiring to be one of the best data scientists.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python projects, data science challenges, and mobile app development.
 - 📫 How to reach me chegemaryann4@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:i actually like singing
